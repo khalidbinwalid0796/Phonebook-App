@@ -119,11 +119,11 @@ export default {
       this.addActive = 'is-active';
     },
     showModal(key){
-      this.$children[1].lists = this.lists[key] //pass data in show component in empty lists object
+      this.$children[1].lists = this.temp[key] //pass data in show component in empty lists object
       this.showActive = 'is-active';
     },
     updateModal(key){
-      this.$children[2].lists = this.lists[key] //pass data in update component in empty lists object
+      this.$children[2].lists = this.temp[key] //pass data in update component in empty lists object
       this.updateActive = 'is-active';
     },    
     close(){
