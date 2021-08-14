@@ -5,5 +5,8 @@
 5. resources ar vitore assets ar vitore css, js folder copy jeta resource ar vitore ee silo & sass folder create & bulma support; assets & assets ar moddhe ja ja korlam sob assets folder create kore korlam, karon laravel 8 assets folder create hoy na.
 5. webpack.mix a change
 6. npm run dev & npm run watch
-7. problem ar solution npm install -D vue-loader vue-template-compiler
+7.  Error: Cannot find module 'webpack/lib/rules/DescriptionDataMatcherRulePlugin' ai problem ar solution npm install -D vue-loader vue-template-compiler; ai cmd dear por public folder ar moddhe css, js folder gulo jai; laravel 7 ar jonno npm run production cmd dea lage.  
 7. npm run dev & npm run watch
+
+procedure 5 for laravel 7
+## laravel 7 or tar ager version gulote resources/sass/app.scss a bootstrap ar poriborte bulma support & resources/js/bootstrap.js theke bootstrap remove kore dite hobe.
