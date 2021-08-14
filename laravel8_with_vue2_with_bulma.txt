@@ -2,7 +2,7 @@
 2. npm install
 3. npm install vue
 4. bulma & vue router 3 install
-5. resources ar vitore assets ar vitore css, js folder copy & sass folder create & bulma support
+5. resources ar vitore assets ar vitore css, js folder copy jeta resource ar vitore ee silo & sass folder create & bulma support; assets & assets ar moddhe ja ja korlam sob assets folder create kore korlam, karon laravel 8 assets folder create hoy na.
 5. webpack.mix a change
 6. npm run dev & npm run watch
 7. problem ar solution npm install -D vue-loader vue-template-compiler
